@@ -16,7 +16,7 @@ window.onload = function () {
     hashtag =
       "#EunhaengdongActivities #DaejeonEunhaengdong #Seongshimdang #DaejeonActivities #ThingsToDoInDaejeon #Christmas #SeongshimdangEvent #DaejeonDiscounts #ChristmasEvent #DaejeonCity #WithKids #LaserSurvival #LaserTagSports #DaejeonJungguActivities #DaejeonDateIdeas #DaejeonIndoorDate #IndoorActivities #DaejeonActivitiesRecommendation #LaserTag #DaejeonJunggu #NearSeongshimdang #Euneungjeongi #Survival #Events #Activities #EunhaengdongDate #DaejeonTaekwondo #GroupActivities";
   }
-  const drink = 100;
+  const drink = 99;
   console.log(drink);
 
   const naver = document.querySelector(".naver");
